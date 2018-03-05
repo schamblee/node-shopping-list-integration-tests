@@ -4,7 +4,7 @@ deploy:
   provider: heroku
   api_key:
     secure: J67ByVrg/eOlsxfwjfvRbqPiwR141v0VEvUB1S+IL3xHyXC/hrRPbMePF37CxWWbAIxH8mqfbv/7FL6W/eZbYF2Hhtw32hDZmyoB72umYffT60s6Q0hKhjfI8GudmMQArwg/8EtFqEkqjlqLc5jZiFnHoeX7QzJfFiOk2kx1CihTDkHIX6koseafzz0ekVUqg2nzgplC4VWZGyjHQQm9gFObhOBQaVD4bNUGJ0e+Zg9VAfulbHBj88ngYjmHVlOeVZFKau0dJD1BPkl/55CjuTC8v1vUAQYcc1KatIGvX/y9kwd+4LuYXfu5AmZDs11DZhL8Trh+/u9fs7Mb78eZUFYxlf7gIn4WbDM4DpksYBfNuxH6KDRsp8Rtz8CDhDSQ3L4CZxDeWM2wUuxCjxVz4/VtT/vGKJGouDGCtJfxbaQ8Vnrki7kaA/tAeKa4qWdUoRT0/GyaSkQhb1eApdzrK5HuGB5nZXnWyJR686adzc4ZTyeW3aLU3V9yLXaPeJvhqMmhJlEClrO/t8Ic7A6wBNYkYfadNICvGFqLc7UVxOa861BqxiqosKSOmIA3eZpLMjv3jajizCDEGMu6/F6UD0kUL1CJfO2cyLbx956DDMzHSky4kkAo/3PfK5cxRL/+odAxJElPNDXOBO22cDf9QUX9Q1QoFzoUTfn8feFedWY=
-  app: https://stormy-castle-25585.herokuapp.com/
+  app: stormy-castle-25585
   on: 
     repo: schamblee/node-shopping-list-integration-tests
     branch: tests-for-recipes
